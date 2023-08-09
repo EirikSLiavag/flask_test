@@ -1,2 +1,2 @@
-for i in range(6):
-    print("Bye")
+def coolFunction():
+    print("This is a cool function")

@@ -1,2 +1,2 @@
-for i in range(6):
-    print("Hello")
+from test_script2 import coolFunction
+coolFunction()
