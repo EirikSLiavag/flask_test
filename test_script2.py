@@ -1,2 +1,2 @@
-for i in range(6):
-    print("Bye")
+from test_script import repeatPrint
+repeatPrint("This is a change", 3)
