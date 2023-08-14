@@ -1,0 +1,69 @@
+[33mcommit 0f5319fcfec8738481af552871c9b2cc43fb6b1e[m[33m ([m[1;36mHEAD -> [m[1;32mnew-feature[m[33m)[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Mon Aug 14 14:02:18 2023 +0200
+
+    Introduced jobs.py, a script containing functions and input to be used in multithreading
+
+[33mcommit 4baa982d64ec5013d80709818f3cec40c5036eb3[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Mon Aug 14 11:19:10 2023 +0200
+
+    Deleted all test files and introduced create_threads.py
+
+[33mcommit 99c5369a19802fc24dd41b0263938417c77777b6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 10:50:18 2023 +0200
+
+    gitignore test
+
+[33mcommit ff0e0afe9f04e4aad5c039f8a5d15286b7276ce8[m
+Merge: 42e2f2b 7fa17e2
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 10:45:31 2023 +0200
+
+    Merge branch 'master' of https://github.com/EirikSLIavag/flask_test
+
+[33mcommit 42e2f2b4840a54335a14254287135178123e151c[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 10:37:10 2023 +0200
+
+    feat: Created gitignore and added file.txt to ignore list
+
+[33mcommit 7fa17e271912a1e9ed5bd602dfd6ef950d475af2[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 09:46:58 2023 +0200
+
+    feat: Created gitignore and added file.txt to ignore list
+
+[33mcommit ab8e821b4f519cb426c66bf3dec52b6b231fcd47[m
+Merge: 432852a 7197d16
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 09:37:38 2023 +0200
+
+    resolved merge conflict in test_script.py and test_script2.py
+
+[33mcommit 432852a2383eb6ce8396b4bd3559602c29d934a7[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 09:21:58 2023 +0200
+
+    new file print_many_messages
+
+[33mcommit 7197d16ec314b8c08deb91670907b8940434a200[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 09:05:36 2023 +0200
+
+    feat: Introduced coolFunction in test_script2.
+    Imported coolFunction for usage in test_script
+
+[33mcommit 1bb95c4197a4502268fa07268069b40288608d3c[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 09:00:24 2023 +0200
+
+    feat: Introduced repeatPrint function in test_script.py.
+    Imported repeatPrint into test_script2.py
+
+[33mcommit 7b8cd15e0d86d0f341de9d4e5ed9ba9a824cb931[m
+Author: Eirik Liavåg <eirik.saetre.liavag@tussa.no>
+Date:   Wed Aug 9 08:35:53 2023 +0200
+
+    feat: Initialised the repository. Added files test_script.p, test_script2.py, txt_test.txt and other_txt.txt for testing
